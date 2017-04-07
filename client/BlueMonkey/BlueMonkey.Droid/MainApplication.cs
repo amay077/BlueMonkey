@@ -7,7 +7,7 @@ using Plugin.CurrentActivity;
 
 namespace BlueMonkey.Droid
 {
-	//You can specify additional application information in this attribute
+    //You can specify additional application information in this attribute
     [Application]
     public class MainApplication : Android.App.Application, Android.App.Application.IActivityLifecycleCallbacks
     {
